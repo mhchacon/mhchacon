@@ -17,7 +17,9 @@ You can click the Preview link to take a look at your changes.
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <div>
 <a href="https://github.com/mhchacon">
+## Estou aprendendo
+
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhchacon&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 </div>
 
