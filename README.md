@@ -51,16 +51,6 @@
 
 <br/>
 
-<!-- ===== PROJETOS EM DESTAQUE ===== -->
-<!-- Troque NOME_DO_REPOSITORIO_1 e _2 pelo nome exato dos seus repositórios (ou apague este bloco) -->
-<div align="center">
-  <a href="https://github.com/mhchacon/NOME_DO_REPOSITORIO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhchacon&repo=NOME_DO_REPOSITORIO_1&theme=tokyonight&hide_border=true" alt="Projeto 1"/>
-  </a>
-  <a href="https://github.com/mhchacon/NOME_DO_REPOSITORIO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhchacon&repo=NOME_DO_REPOSITORIO_2&theme=tokyonight&hide_border=true" alt="Projeto 2"/>
-  </a>
-</div>
 
 <!-- ===== CONTATO ===== -->
 <br/>
